@@ -141,11 +141,11 @@ export default function EventDetails() {
               </div>
               
               <div className="flex items-center gap-3">
-                <Button variant="outline" size="lg" className="border-white/30 text-white hover:bg-white/20">
+                <Button variant="outline" size="lg" className="border-white/30 text-black hover:bg-white/20">
                   <Share2 className="w-4 h-4 mr-2" />
                   Share
                 </Button>
-                <Button variant="outline" size="lg" className="border-white/30 text-white hover:bg-white/20">
+                <Button variant="outline" size="lg" className="border-white/30 text-black hover:bg-white/20">
                   <Heart className="w-4 h-4 mr-2" />
                   Save
                 </Button>

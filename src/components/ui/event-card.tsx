@@ -113,7 +113,7 @@ export const EventCard = ({
 
         <div className="flex items-center justify-between pt-2">
           <Link to={`/events/${id}`}>
-            <Button variant="outline" size="sm" className="group-hover:border-primary group-hover:text-primary transition-smooth">
+            <Button variant="outline" size="sm" className="group-hover:border-primary hover:text-white transition-smooth">
               View Details
             </Button>
           </Link>
